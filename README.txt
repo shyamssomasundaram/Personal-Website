@@ -1,0 +1,1 @@
+This repository contains all files needed to run my personal website.
