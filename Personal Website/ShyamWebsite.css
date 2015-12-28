@@ -1,0 +1,103 @@
+#menubar {
+   background-color:black;
+   color:white;
+}
+
+#MenubarBody {
+   background-color:grey;
+}
+
+#AboutBody {
+   background-color:#3EA99F;
+   color:white;
+}
+
+#ExperienceBody {
+   background-color:#3EA99F;
+   color:white;
+}
+
+#EducationBody {
+   background-color:#3EA99F;
+   color:white;
+}
+
+#PortfolioBody {
+   background-color:#3EA99F;
+   color:white;
+}
+
+label {
+   font-weight:bold;
+}
+
+#JobTitle {
+   font-family:"Garamond";
+   font-size:20px;
+   font-weight:bold;
+}   
+
+#ContactTitle {
+   font-family:"Garamond";
+   font-size:20px;
+   font-weight:bold;
+   text-decoration:underline;
+}  
+
+h2 {
+   font-family:"Courier New";
+   display:inline;
+   margin: 0 23em 0 0.5em;
+}   
+
+h3 {
+   text-align:center;
+   font-family:"Garamond";
+   font-size:30px;
+}
+
+.DiagramTitle {
+   font-weight:bold;
+}
+
+.Subheading {
+   font-weight:bold;
+   text-decoration:underline;
+}   
+
+#NMDPInternshipImage {
+   height:400px;
+   width:700px;
+}
+
+#AULogo {
+   height:200px;
+   width:250px;
+}
+
+#UofMLogo {
+   height:200px;
+   width:600px;
+}
+
+a {
+   margin: 0 1.5em 0 0;
+}   
+
+a:link    {color:#8C001A; background-color:transparent; text-decoration:none}
+a:visited {color:#8C001A; background-color:transparent; text-decoration:none}
+a:hover   {color:red; background-color:transparent; text-decoration:none}
+a:active  {color:yellow; background-color:transparent; text-decoration:none}
+
+#MenuAbout:link {color:white; background-color:transparent; text-decoration:none}
+#MenuAbout:visited {color:white; background-color:transparent; text-decoration:none}
+#MenuAbout:hover {color:red; background-color:transparent; text-decoration:none}
+#MenuExperience {color:white; background-color:transparent; text-decoration:none}
+#MenuExperience:visited {color:white; background-color:transparent; text-decoration:none}
+#MenuExperience:hover {color:red; background-color:transparent; text-decoration:none}
+#MenuEducation {color:white; background-color:transparent; text-decoration:none}
+#MenuEducation:visited {color:white; background-color:transparent; text-decoration:none}
+#MenuEducation:hover {color:red; background-color:transparent; text-decoration:none}
+#MenuPortfolio {color:white; background-color:transparent; text-decoration:none}
+#MenuPortfolio:visited {color:white; background-color:transparent; text-decoration:none}
+#MenuPortfolio:hover {color:red; background-color:transparent; text-decoration:none}
